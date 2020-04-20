@@ -25,3 +25,17 @@
 1587264167 c:\users\stevehb\onedrive\stars\stretchy_buffer.h
 	<stdlib.h>
 
+1587398230 source:c:\codes\ld46\main.cpp
+	<inttypes.h>
+	<math.h>
+	<stdio.h>
+	"raylib.h"
+	"stretchy_buffer.h"
+
+1587398230 c:\codes\ld46\raylib-3.0.0-win64-msvc15\include\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1587398230 c:\codes\ld46\stretchy_buffer.h
+	<stdlib.h>
+

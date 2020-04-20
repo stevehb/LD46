@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1586354935 source:f:\codes\exp\stars\main.cpp
+	<stdio.h>
+	"raylib.h"
+
+1585654667 f:\codes\exp\stars\raylib-2.6.0-win64-msvc15\include\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1585997559 f:\codes\exp\stars\raylib-3.0.0-win64-msvc15\include\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1587396872 source:c:\users\stevehb\onedrive\stars\main.cpp
+	<inttypes.h>
+	<math.h>
+	<stdio.h>
+	"raylib.h"
+	"stretchy_buffer.h"
+
+1585997559 c:\users\stevehb\onedrive\stars\raylib-3.0.0-win64-msvc15\include\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1587264167 c:\users\stevehb\onedrive\stars\stretchy_buffer.h
+	<stdlib.h>
+
